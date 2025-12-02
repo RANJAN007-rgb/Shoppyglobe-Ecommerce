@@ -17,8 +17,6 @@ This project is a Vite + React + Tailwind + Redux starter that implements the as
 
 6.Search Functionality
 
-7.Add Book Form + Validation
-
 ## 🛍️ Products
 
 Full product catalog with search, filters, and pagination
@@ -64,6 +62,7 @@ Environment variable reference
 
 Admin usage guide
 
+
 ## How to run locally
 
 1. Install dependencies:
@@ -74,6 +73,13 @@ npm install
 2. Start dev server:
 ```bash
 npm run dev
-```
 
 Open the URL shown by Vite (usually http://localhost:5173)
+ Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/RANJAN007-rgb/ShoppyGlobe-Ecommerce
+   cd Shoppyglobe-Ecommerce
+
+
