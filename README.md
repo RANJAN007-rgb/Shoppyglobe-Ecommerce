@@ -28,6 +28,16 @@ Integrate Stripe payment gateway test mode
 
 Add order confirmation page & email template
 
+## 🎨 UI/UX Improvements
+
+Modern, responsive design
+
+Skeleton loaders & animations
+
+Improved checkout flow
+
+Toast notifications and error boundaries
+
 ## Run locally
 
 1. Install dependencies:
