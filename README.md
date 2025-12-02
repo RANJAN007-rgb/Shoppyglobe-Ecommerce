@@ -38,6 +38,16 @@ Improved checkout flow
 
 Toast notifications and error boundaries
 
+## 📚 Documentation
+
+Updated README with setup instructions
+
+API documentation for developers
+
+Environment variable reference
+
+Admin usage guide
+
 ## Run locally
 
 1. Install dependencies:
