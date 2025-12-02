@@ -48,7 +48,7 @@ Environment variable reference
 
 Admin usage guide
 
-## Run locally
+## How to run locally
 
 1. Install dependencies:
 ```bash
