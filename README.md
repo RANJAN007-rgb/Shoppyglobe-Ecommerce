@@ -2,6 +2,17 @@
 
 This project is a Vite + React + Tailwind + Redux starter that implements the assignment requirements.
 
+## ✨ Features
+## 🛍️ Products
+
+Full product catalog with search, filters, and pagination
+
+Product detail pages with multiple images
+
+Admin product management (Create/Update/Delete)
+
+Image uploads using Cloudinary integration
+
 ## Run locally
 
 1. Install dependencies:
