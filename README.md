@@ -3,6 +3,22 @@
 This project is a Vite + React + Tailwind + Redux starter that implements the assignment requirements.
 
 ## ✨ Features
+## This project is Shoppyglobe-Ecommerce website:
+
+1.React (Vite)
+
+2.Redux Toolkit
+
+3.React Router
+
+4.Tailwind CSS
+
+5.Dynamic Routing
+
+6.Search Functionality
+
+7.Add Book Form + Validation
+
 ## 🛍️ Products
 
 Full product catalog with search, filters, and pagination
