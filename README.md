@@ -12,6 +12,21 @@ Product detail pages with multiple images
 Admin product management (Create/Update/Delete)
 
 Image uploads using Cloudinary integration
+## 📌 Shopping Cart & Checkout
+
+Implement cart model and backend cart operations
+
+Add cart state management on frontend
+
+Build cart page with quantity updates & total calculations
+
+Implement coupon/discount logic
+
+Create order schema and checkout endpoint
+
+Integrate Stripe payment gateway test mode
+
+Add order confirmation page & email template
 
 ## Run locally
 
